@@ -1,0 +1,32 @@
+1. What is a Computer?
+   - A computer is an electronic device that processes data and performs tasks based on a set of instructions (programs). It can store, retrieve, and process data, making it useful for a variety of tasks such as word processing, internet browsing, gaming, and more.
+
+2.  What is RAM? 
+   - RAM (Random Access Memory) is a type of computer memory that stores data temporarily while a computer is running. It allows for quick access and retrieval of information needed by the system and applications, making it essential for multitasking and fast operation. Unlike long-term storage, data in RAM is lost when the computer is turned off.
+
+3.  Where is data stored in a computer? 
+   - Data in a computer is stored primarily in storage devices like hard disk drives (HDDs), solid-state drives (SSDs), or other forms of long-term storage. Temporary data used by applications and the operating system is stored in RAM.
+
+4.  What is the input device used to type text and numbers on a document in the computer system? 
+   - The  keyboard  is the input device used for typing text and numbers in a computer system.
+
+5.  What are the output devices? 
+   - Output devices are hardware components that convey information from the computer to the user. Common examples include:
+     -  Monitor  (displays images and videos)
+     -  Printer  (produces printed documents)
+     -  Speakers  (output sound)
+     -  Projectors  (displays content on larger screens)
+
+6.  Which is the input device that allows a user to move the cursor or pointer on the screen? 
+   - The  mouse  is the input device that allows users to move the cursor or pointer on the screen.
+
+7.  Which language is directly understood by the computer without a translation program? 
+   -  Machine language  or  machine code  is directly understood by the computer without any translation. It is composed of binary code (0s and 1s) and is specific to each computer's architecture.
+
+8.  What are Input devices? 
+   - Input devices are hardware components used to input data and control signals to a computer. Examples include:
+     -  Keyboard  (for typing)
+     -  Mouse  (for navigating the pointer)
+     -  Scanner  (for digitizing documents)
+     -  Microphone  (for audio input)
+     -  Webcam  (for video input)
