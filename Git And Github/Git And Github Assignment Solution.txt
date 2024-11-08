@@ -1,0 +1,41 @@
+1.  What is Git? 
+   - Git is a distributed version control system that tracks changes in the source code during software development. It allows multiple developers to work on a project simultaneously, helps manage code revisions, and facilitates collaboration by maintaining a history of changes and enabling features like branching and merging.
+
+2.  What do you understand by the term ‘Version Control System’? 
+   - A Version Control System (VCS) is a tool that helps manage changes to code or files over time. It tracks modifications, allows multiple users to work on files concurrently, and maintains a history of changes. This makes it easy to revert to earlier versions, track who made specific changes, and manage multiple versions of a project.
+
+3.  What is GitHub? 
+   - GitHub is a web-based platform that provides hosting for Git repositories. It offers a user-friendly interface for collaborating on code, managing repositories, tracking issues, and reviewing code. GitHub also provides features like pull requests, wikis, and integrated project management tools to support software development.
+
+4.  Mention some popular Git hosting services? 
+   - Some popular Git hosting services include:
+     -  GitHub : The most popular platform for open-source and private projects.
+     -  GitLab : Offers robust DevOps tools and CI/CD integration.
+     -  Bitbucket : Integrates well with other Atlassian products like Jira and Trello.
+     -  SourceForge : A platform often used for open-source projects.
+     -  Azure Repos : Part of Microsoft Azure's DevOps suite.
+
+5.  Different types of version control systems? 
+   - There are three main types of version control systems:
+     -  Local Version Control System : Manages versions of files on a local machine (e.g., RCS).
+     -  Centralized Version Control System (CVCS) : Uses a central server to store all versions (e.g., Subversion, CVS).
+     -  Distributed Version Control System (DVCS) : Each user has a full copy of the repository, making it easier to work offline and collaborate (e.g., Git, Mercurial).
+
+6.  What benefits come with using Git? 
+   - The benefits of using Git include:
+     -  Distributed system : Every user has a full copy of the repository.
+     -  Branching and merging : Allows for parallel development and easy integration.
+     -  Speed : Fast performance for both local operations and networked actions.
+     -  Data integrity : Ensures that the content of your files is preserved without corruption.
+     -  Collaboration : Facilitates team collaboration by enabling code sharing and version tracking.
+     -  Commit history : Maintains a record of all changes, making it easy to trace or revert.
+
+7.  What is a Git repository? 
+   - A Git repository is a data structure used by Git to store metadata for a project. It contains all the project files and a history of all changes made to those files. A repository can be local (on a developer's computer) or remote (hosted on a service like GitHub).
+
+8.  How can you initialize a repository in Git? 
+   - To initialize a Git repository, you can use the command:
+     
+     git init
+     
+     This command sets up a new, empty Git repository in the current directory by creating a `.git` folder that contains all necessary metadata for version control.
